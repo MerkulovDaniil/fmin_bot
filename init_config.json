@@ -1,0 +1,47 @@
+{
+    "creators": [
+        {
+            "name" : "Daniil Merkulov",
+            "username": "bratishk",
+            "id" : 164960798
+        },
+        {
+            "name" : "Alexandre Trishin",
+            "username" : "FckSoCiet_y",
+            "id" : 362906186
+        },
+        {
+            "name": "Michael Persiianov",
+            "username": "MuXauJl11110",
+            "id": 354050988
+        }
+    ],
+    "courses": {
+        "BLM4": {
+            "teachers": [
+                {
+                    "name" : "Daniil Merkulov",
+                    "username": "bratishk",
+                    "id" : 164960798
+                },
+                {
+                    "name" : "Alexandre Trishin",
+                    "username" : "FckSoCiet_y",
+                    "id" : 362906186
+                },
+                {
+                    "name": "Michael Persiianov",
+                    "username": "MuXauJl11110",
+                    "id": 354050988
+                }
+            ],
+            "title": "Оптимизация МФТИ 22-23",
+            "link": "https://mipt22.fmin.xyz",
+            "status": "opened",
+            "code": "mipt22-23",
+            "students": [],
+            "tests": {},
+            "HWs": {}
+        }
+    }
+}
